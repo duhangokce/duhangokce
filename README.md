@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @duhangokce
 - 👀 I’m interested in Artificial Intelligence, Cyber Security and, Psychology
-- 🌱 I’m currently learning Python & Machine Learning
+- 🌱 I’m currently learning Java
 - 📫 How to reach me ...
 
 <!---
